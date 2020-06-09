@@ -1,0 +1,6 @@
+module Pods_ResList {
+  umbrella header "Pods-ResList-umbrella.h"
+
+  export *
+  module * { export * }
+}

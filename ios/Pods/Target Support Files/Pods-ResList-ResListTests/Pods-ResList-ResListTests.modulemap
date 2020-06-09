@@ -1,0 +1,6 @@
+module Pods_ResList_ResListTests {
+  umbrella header "Pods-ResList-ResListTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
